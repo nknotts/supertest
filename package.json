@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "superagent": "0.15.1",
+    "superagent": "git://github.com/nknotts/superagent.git#2857f5bc70d5b847b1556ce70ff1d9cca285f0e9",
     "methods": "0.0.1"
   },
   "devDependencies": {
